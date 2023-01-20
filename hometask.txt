@@ -3,3 +3,37 @@ Merge remote-tracking branch 'origin/hat'
 Merge remote-tracking branch 'origin/boots' into boots_buttons
 Merge remote-tracking branch 'origin/buttons' into boots_buttons
 fix readme
+т.е они различаются коммитами в одном 2 разных в другом 5
+
+
+ 
+ответ на 4 вопрос: 
+fix readme 
+ 
+@MobDev-Hobby 
+MobDev-Hobby committed on Jun 29, 2016 
+  
+dots 
+ 
+@MobDev-Hobby 
+MobDev-Hobby committed on Jun 29, 2016 
+  
+README added 
+ 
+@MobDev-Hobby 
+MobDev-Hobby committed on Jun 29, 2016 
+  
+boots 
+ 
+@MobDev-Hobby 
+MobDev-Hobby committed on Jun 29, 2016 
+  
+heat added 
+ 
+@MobDev-Hobby 
+MobDev-Hobby committed on Jun 29, 2016 
+  
+init 
+ 
+@MobDev-Hobby 
+MobDev-Hobby committed on Jun 29, 2016
